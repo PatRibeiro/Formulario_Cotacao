@@ -8,4 +8,4 @@ Em meu Linkedin (https://www.linkedin.com/in/patricia-ribeiro-b34408258/) , post
 
 com códigos em PY.
 
-Este treinamento em PY propiciou a utilização de variáveis, coordenadas, tipos de dados e bastante aprendizado.
+Neste treinamento em PY foi utilizado o Navegador Anaconda e o código digitado no painel do Jupiter, propiciando a utilização de variáveis, coordenadas, tipos de dados e bastante aprendizado.
