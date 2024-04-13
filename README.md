@@ -4,7 +4,7 @@ O exercício foi proposto pela empresa Empowerdata, linkedin (https://www.linked
 
 Alterei o Layout do formulário do Orçamento no Canvas e alinhei o código ao mesmo, depois de tomar uma certa coça kkk, consegui.
 
-Em meu Linkedin (https://www.linkedin.com/in/patricia-ribeiro-b34408258/) , postei um video mostrando o preenchimento da cotação, a geração automática de um arquivo pdf e o preenchimento do formulário  
+Em meu Linkedin (https://www.linkedin.com/in/patricia--sousa/), postei um video mostrando o preenchimento da cotação, a geração automática de um arquivo pdf e o preenchimento do formulário  
 
 com códigos em PY.
 
